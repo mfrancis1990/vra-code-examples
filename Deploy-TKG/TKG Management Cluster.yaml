@@ -99,7 +99,7 @@ stages:
         type: vRO
         ignoreFailure: true
         endpoints:
-          vroServer: vRO - Local
+          vroServer: VROTKG
         input:
           workflowName: Onboard TKG Cluster
           workflowID: 627a648f-5c05-47d4-ade4-b3c0d71d1fe4
